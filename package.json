@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "nouislider": "14.6.0",
+    "survey-core": "latest",
+    "survey-js-ui": "latest",
+    "surveyjs-widgets": "latest"
+  }
+}
